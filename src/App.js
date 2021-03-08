@@ -3,8 +3,8 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <h1>The Linked Clone</h1>
+    <div className="app">
+      <h1>The is a Linked Clone</h1>
     </div>
   );
 }
